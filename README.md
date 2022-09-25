@@ -12,6 +12,5 @@
 ## Activity4
 ![image](https://user-images.githubusercontent.com/53381276/192072607-8a368f90-3580-4b46-96f6-85648ac5ba84.png)
 ![image](https://user-images.githubusercontent.com/53381276/192073015-9ff0636f-4bd8-4a6c-941a-4eeab2fb6a8b.png)
-![image](https://user-images.githubusercontent.com/53381276/192074730-a24cfa11-e6e5-432a-9ce3-6cb251b39857.png)
 ![image](https://user-images.githubusercontent.com/53381276/192166072-be7574f0-fbb6-4689-8add-ed8073df3288.png)
 ![image](https://user-images.githubusercontent.com/53381276/192166582-ce018f13-a1bb-4ace-a271-045004b080c7.png)
